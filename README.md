@@ -1,4 +1,19 @@
-# Machine Learning
+# Practical Full-Stack Machine Learning
+
+A hands-on collection of notebooks and examples for turning data into useful machine-learning workflows.
+
+## What you'll find
+
+- Environment and notebook setup
+- Data analysis and preprocessing with Pandas
+- Web scraping and data collection
+- Visualization and exploratory analysis
+- TensorFlow/Keras, scikit-learn, and PyTorch experiments
+- Practical training, evaluation, and model-selection patterns
+
+The examples are intentionally focused on small, understandable building blocks that can be reused in larger data and ML projects.
+
+## Notebook catalogue
 
 ## General Setup
 * [Create Virtual Environment using “virtualenv” and add it to Jupyter Notebook](https://towardsdatascience.com/create-virtual-environment-using-virtualenv-and-add-it-to-jupyter-notebook-6e1bf4e03415)
