@@ -2,6 +2,10 @@
 
 A hands-on collection of notebooks and examples for turning data into useful machine-learning workflows.
 
+> **Learning archive:** This repository is a fork of [BindiChen/machine-learning](https://github.com/BindiChen/machine-learning). The notebook collection and tutorial catalogue originate upstream. My contribution in this fork is the project overview and any changes explicitly shown in this fork; it should not be read as an original ML curriculum.
+>
+> For my independent work, see [Gitfolio Audit](https://github.com/hieutran-tud/gitfolio-audit), [Data Contract Checker](https://github.com/hieutran-tud/data-contract-checker), [Experiment Tracker Lite](https://github.com/hieutran-tud/experiment-tracker-lite), [Model Card Generator](https://github.com/hieutran-tud/model-card-generator), and [Data Drift Monitor](https://github.com/hieutran-tud/data-drift-monitor).
+
 ## What you'll find
 
 - Environment and notebook setup
